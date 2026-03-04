@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://media.giphy.com/media/26xBukh8PR0tQf9hK/giphy.gif" width="700"/>
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
