@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1f1c2c&height=200&section=header&text=Nishant%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
