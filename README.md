@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1f1c2c&height=200&section=header&text=Nishant%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -100,6 +102,20 @@ MongoDB
 
 ---
 
+## 🧑‍💻 Developer Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantverma-dev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantverma-dev&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantverma-dev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantverma-dev&theme=tokyonight"/>
+</p>
+
+---
+
 # 📈 Most Used Languages
 
 <p align="center">
@@ -111,6 +127,22 @@ MongoDB
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/nishantverma-dev/nishantverma-dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantverma-dev&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantverma-dev&theme=tokyo-night"/>
+</p>
 
 ---
 
